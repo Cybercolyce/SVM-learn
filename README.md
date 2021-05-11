@@ -33,3 +33,8 @@
 </h3>
 <center><a href='https://cybercolyce.github.io/SVM-learn/'>》》》速速点我《《《</a></center>
 
+## Todo
+* 公式渲染修改
+* 逻辑错误修改
+* 案例补充
+* 图像补充
