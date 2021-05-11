@@ -1,4 +1,4 @@
-<img src="https://i.loli.net/2021/05/10/cUn3EzsYfCK4PMr.png" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/05/11/yXM4PxoQOqEpsrn.png" style="zoom:50%;" />
 
 # <font color='white'>狗都能看得懂的SVM</font>
 

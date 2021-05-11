@@ -75,7 +75,7 @@
 
 
 
-![](https://latex.codecogs.com/svg.latex?d_i)表示样本点![](https://latex.codecogs.com/svg.latex?i)到某条固定分割面的距离；![](https://latex.codecogs.com/svg.latex?min(d_i))表示所有样本点中与某个分割面之间距离的最小值，![](https://latex.codecogs.com/svg.latex?arg_{A,B,C}maxmin(d_i))表示从所有分割面寻找$\gamma$最大的超平面，其中![](https://latex.codecogs.com/svg.latex?A,B,C )是分割面的参数。接下来我们进行模型的量化操作。
+![](https://latex.codecogs.com/svg.latex?d_i)表示样本点![](https://latex.codecogs.com/svg.latex?i)到某条固定分割面的距离；![](https://latex.codecogs.com/svg.latex?min(d_i))表示所有样本点中与某个分割面之间距离的最小值，![](https://latex.codecogs.com/svg.latex?arg_{A,B,C}maxmin(d_i))表示从所有分割面寻找![](https://latex.codecogs.com/svg.latex?\gamma)最大的超平面，其中![](https://latex.codecogs.com/svg.latex?A,B,C )是分割面的参数。接下来我们进行模型的量化操作。
 
 ### 1.2.1![](https://latex.codecogs.com/svg.latex?\gamma )的表示
 
