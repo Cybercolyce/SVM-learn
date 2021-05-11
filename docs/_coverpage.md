@@ -1,6 +1,6 @@
 <img src="https://i.loli.net/2021/05/11/yXM4PxoQOqEpsrn.png" style="zoom:50%;" />
 
-# <font color='white'>狗都能看得懂的SVM</font>
+# <font color='white'>狗狗都能看得懂的SVM</font>
 
 > <font color='grey' size='2px'>但我不一定看得懂</font>
 
