@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body onresize="resizeFresh()">  <!-- 添加刷新函数调用 -->
+<!-- 添加刷新函数调用-->
+<style type="text/css">			
+            html,body{
+                height:100%;
+                width:100%
+            }
+</style>
+    <div id="17e1f27baad542d1a158492a20e94b37" class="chart-container" style="width:75%; height:75%; margin:auto; top:20%"></div>
+    <script>
+        var chart_17e1f27baad542d1a158492a20e94b37 = echarts.init(
+            document.getElementById('17e1f27baad542d1a158492a20e94b37'), 'white', {renderer: 'canvas'});
+        var option_17e1f27baad542d1a158492a20e94b37 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "scatter",
+            "name": "A",
+            "symbolSize": 20,
+            "data": [
+                [
+                    1.0,
+                    1.0
+                ],
+                [
+                    3.0,
+                    3.0
+                ]
+            ],
+            "label": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        },
+        {
+            "type": "scatter",
+            "name": "B",
+            "symbol": "diamond",
+            "symbolSize": 20,
+            "data": [
+                [
+                    4.0,
+                    3.0
+                ]
+            ],
+            "label": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "A",
+                "B"
+            ],
+            "selected": {
+                "A": true,
+                "B": true
+            },
+            "show": true,
+            "bottom": "bottom",
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "xAxis": [
+        {
+            "type": "value",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "interval": 0.5,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "min": "0",
+            "max": "5",
+            "minInterval": 0,
+            "splitLine": {
+                "show": true,
+                "lineStyle": {
+                    "show": true,
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            },
+            "data": [
+                4.0
+            ]
+        }
+    ],
+    "yAxis": [
+        {
+            "type": "value",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "interval": 0.5,
+            "gridIndex": 0,
+            "axisTick": {
+                "show": true,
+                "alignWithLabel": false,
+                "inside": false
+            },
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "min": "0",
+            "max": "5",
+            "minInterval": 0,
+            "splitLine": {
+                "show": true,
+                "lineStyle": {
+                    "show": true,
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            }
+        }
+    ],
+    "title": [
+        {
+            "text": "\u4e00\u4e2a\u7b80\u5355\u7684\u4f8b\u5b50",
+            "left": "center",
+            "padding": 5,
+            "itemGap": 10
+        }
+    ]
+};
+        chart_17e1f27baad542d1a158492a20e94b37.setOption(option_17e1f27baad542d1a158492a20e94b37);
+    </script>
+
+	<script>  
+	     
+         var x=window.innerWidth;
+     function resizeFresh(){
+         if(x!=window.innerWidth)
+             location.reload();
+     }
+	</script>
+</body>
+</html>
