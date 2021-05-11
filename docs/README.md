@@ -59,7 +59,7 @@
 <center><img src="https://latex.codecogs.com/svg.latex?d=\frac{|Ax_p+By_p+C|}{\sqrt{A^2+B^2}}"></center>
 
 
-在这里我们要清楚一个事实：**点是由线构成的。**因此要用一条线把两类点分离的话，我们应该<font color='red'>从两类点距离最近</font>的地方开始下手，因为这个地方的点集成为最终划分直线上的点的概率最大。我们把这些起重要的参考作用的点称为<font color='navyblue'>**“支持向量”**</font>**（Supported Vector）**
+在这里我们要清楚一个事实：**线是由点构成的。**因此要用一条线把两类点分离的话，我们应该<font color='red'>从两类点距离最近</font>的地方开始下手，因为这个地方的点集成为最终划分直线上的点的概率最大。我们把这些起重要的参考作用的点称为<font color='navyblue'>**“支持向量”**</font>**（Supported Vector）**
 
 <center>
 <img src="https://i.loli.net/2021/05/10/7VRq4dfPLoAJkWv.png">
