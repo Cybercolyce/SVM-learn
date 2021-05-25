@@ -28,8 +28,9 @@
         <img src="https://img.shields.io/badge/License-GLWT-critical.svg" alt="License">
     </a>
 </p>
-<h3>
+<h3 align = 'center'>
     <center>👇网站Demo👇</center>
-</h3>
-<center><a href='https://cybercolyce.github.io/SVM-learn/'>》》》速速点我《《《</a></center><br>
+    <center><a href='https://cybercolyce.github.io/SVM-learn/'><br>》》》原理分析《《《</a></center><br>
 <center><a href='https://cybercolyce.github.io/RWine/'>》》》红酒分析实例《《《</a></center>
+</h3>
+
