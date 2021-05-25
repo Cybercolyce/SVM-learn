@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://i.loli.net/2021/05/11/yXM4PxoQOqEpsrn.png" alt="logo" width=200 height=200 />
 </p>
-<h1 align="center">《狗勾都能看懂的SVM基础实现原理》</h1>
+<h1 align="center">《狗狗都能看懂的SVM基础实现原理》</h1>
 <p align="center">
     <em>但我自己也不懂</em>
 </p>
@@ -31,10 +31,5 @@
 <h3>
     <center>👇网站Demo👇</center>
 </h3>
-<p align='center'><a href='https://cybercolyce.github.io/SVM-learn/'>》》》速速点我《《《</a></p>
-
-## Todo
-* 公式渲染修改
-* 逻辑错误修改
-* 案例补充
-* 图像补充
+<center><a href='https://cybercolyce.github.io/SVM-learn/'>》》》速速点我《《《</a></center>
+<center><a href='https://cybercolyce.github.io/RWine/'>》》》红酒分析实例《《《</a></center>
